@@ -11,4 +11,4 @@ PASS: 15 required artifacts, Markdown links, module XML, source hashes, 13 contr
 NOT RUN: BSL compilation, platform scenarios, University integration, HTTP service
 ```
 
-Платформенная приемка AC08 остается открытой независимо от результата этой проверки. Файлы модуля и его сценариев пока не исполнялись в 1С.
+На момент начального шага платформенные проверки не выполнялись. Последующий успешный запуск 33 сценариев пользователем зафиксирован отдельно: [протокол](platform-validation.md). Интеграционные ограничения T007/T008 остаются открытыми.
