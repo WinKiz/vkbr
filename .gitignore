@@ -1,0 +1,25 @@
+# Базы, архивы поставки и локальные результаты
+*.1CD
+*.dt
+*.cf
+*.cfe
+*.cfu
+*.epf
+*.erf
+*.log
+*.tmp
+*.bak
+*.lock
+__pycache__/
+.venv/
+.local/
+build/
+artifacts/
+# Секреты и настройки окружения
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+local-settings.json
